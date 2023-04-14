@@ -1,0 +1,10 @@
+export const LoginImage = require('./loginimmage.png')
+export const SignupImage = require('./signupimage.png')
+export const OtpImage = require('./otpimage.png')
+export const NeurogonivityImage = require('./Neurogonivity.png')
+
+export const Wishdom_1 = require('./wishdom_1.jpg')
+export const Wishdom_2 = require('./wishdom_2.webp')
+export const Wishdom_3 = require('./wishdom_3.webp')
+export const Wishdom_4 = require('./wishdom_4.jpg')
+export const Wishdom_5 = require('./wishdom_5.jpg')
